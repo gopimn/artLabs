@@ -1,6 +1,6 @@
 # Leuco classifier
 
-This is my attempt to do a leucocite clasifier
+This is my attempt to do a leucocite clasifier, from blood smear pictures.
 
 # Refs
 
@@ -13,22 +13,18 @@ This is my attempt to do a leucocite clasifier
 + Another queston with a [snipet](https://answers.opencv.org/question/120204/what-is-the-best-way-to-detect-white-blood-cells-among-the-red-blood-cells-in-blood-sample-using-opencv/?comment=120205) that didnt work
 
 + [A very good paper with repo =)](https://github.com/MahmudulAlam/Automatic-Identification-and-Counting-of-Blood-Cells/)
+
++ [A good one in Matlab](https://github.com/Goblin80/Leukocyte-Classify)
+
++ [Dont know if this repo works](https://github.com/kfiallos/counting_erythrocytes)
+
++ [Another repo](https://github.com/americast/Blood-smear-analysis)
+
++ [KERAS](https://github.com/experiencor/keras-yolo2)
+
+
 -----------
 
-
-https://github.com/MahmudulAlam/Automatic-Identification-and-Counting-of-Blood-Cells/blob/master/IMAGES/HRI001.jpg
-
-https://github.com/Goblin80/Leukocyte-Classify
-
-https://github.com/Goblin80/Numerical-Analysis
-
-https://github.com/MahmudulAlam/Complete-Blood-Cell-Count-Dataset/blob/master/Validation/Images/BloodImage_00045.jpg
-
-https://github.com/kfiallos/counting_erythrocytes
-
-https://github.com/americast/Blood-smear-analysis
-
-https://github.com/experiencor/keras-yolo2
 
 https://github.com/fu-malaria/fu-malaria
 
