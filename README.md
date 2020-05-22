@@ -4,11 +4,25 @@ This is my attempt to do a leucocite clasifier
 
 # Refs
 
-[asd](https://dsp.stackexchange.com/questions/3063/count-blood-cells)
+## Repos <3
 
-https://answers.opencv.org/question/120204/what-is-the-best-way-to-detect-white-blood-cells-among-the-red-blood-cells-in-blood-sample-using-opencv/?comment=120205
+[Cell_ID](https://github.com/jz359/Cell_ID)
 
-https://www.semanticscholar.org/paper/Blood-Cells-Counting-using-Python-OpenCV-Meimban-Fernando/70e5d2da9eaaa752296f6fd78b5989648e833cfc
+## Papers
+
+(blood cells counting using python)[https://www.semanticscholar.org/paper/Blood-Cells-Counting-using-Python-OpenCV-Meimban-Fernando/70e5d2da9eaaa752296f6fd78b5989648e833cfc) __unread__
+
+## imgs
+
+[Some stack overflow](https://dsp.stackexchange.com/questions/3063/count-blood-cells) __reviewed__
+
+## Code
+
+[snipet did not work](https://answers.opencv.org/question/120204/what-is-the-best-way-to-detect-white-blood-cells-among-the-red-blood-cells-in-blood-sample-using-opencv/?comment=120205)
+
+-----------
+
+
 
 https://github.com/jz359/Cell_ID
 
