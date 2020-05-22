@@ -10,7 +10,7 @@ This is my attempt to do a leucocite clasifier
 
 ## Papers
 
-(blood cells counting using python)[https://www.semanticscholar.org/paper/Blood-Cells-Counting-using-Python-OpenCV-Meimban-Fernando/70e5d2da9eaaa752296f6fd78b5989648e833cfc) __unread__
+[blood cells counting using python](https://www.semanticscholar.org/paper/Blood-Cells-Counting-using-Python-OpenCV-Meimban-Fernando/70e5d2da9eaaa752296f6fd78b5989648e833cfc) __unread__
 
 ## imgs
 
