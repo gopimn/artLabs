@@ -4,27 +4,17 @@ This is my attempt to do a leucocite clasifier
 
 # Refs
 
-## Repos <3
++ A good repo <3 [Cell_ID](https://github.com/jz359/Cell_ID)
 
-[Cell_ID](https://github.com/jz359/Cell_ID)
++ paper [blood cells counting using python](https://www.semanticscholar.org/paper/Blood-Cells-Counting-using-Python-OpenCV-Meimban-Fernando/70e5d2da9eaaa752296f6fd78b5989648e833cfc) __unread__
 
-## Papers
++ A question in [stack overflow](https://dsp.stackexchange.com/questions/3063/count-blood-cells) __reviewed__
 
-[blood cells counting using python](https://www.semanticscholar.org/paper/Blood-Cells-Counting-using-Python-OpenCV-Meimban-Fernando/70e5d2da9eaaa752296f6fd78b5989648e833cfc) __unread__
++ Another queston with a [snipet](https://answers.opencv.org/question/120204/what-is-the-best-way-to-detect-white-blood-cells-among-the-red-blood-cells-in-blood-sample-using-opencv/?comment=120205) that didnt work
 
-## imgs
-
-[Some stack overflow](https://dsp.stackexchange.com/questions/3063/count-blood-cells) __reviewed__
-
-## Code
-
-[snipet did not work](https://answers.opencv.org/question/120204/what-is-the-best-way-to-detect-white-blood-cells-among-the-red-blood-cells-in-blood-sample-using-opencv/?comment=120205)
-
++ [A very good paper with repo =)](https://github.com/MahmudulAlam/Automatic-Identification-and-Counting-of-Blood-Cells/)
 -----------
 
-
-
-https://github.com/jz359/Cell_ID
 
 https://github.com/MahmudulAlam/Automatic-Identification-and-Counting-of-Blood-Cells/blob/master/IMAGES/HRI001.jpg
 
