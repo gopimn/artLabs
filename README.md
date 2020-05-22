@@ -18,15 +18,17 @@ This is my attempt to do a leucocite clasifier, from blood smear pictures.
 
 + [Dont know if this repo works](https://github.com/kfiallos/counting_erythrocytes)
 
-+ [Another repo](https://github.com/americast/Blood-smear-analysis)
++ [Another repo](https://github.com/americast/Blood-smear-analysis)(in C++)
 
 + [KERAS](https://github.com/experiencor/keras-yolo2)
+
++ [Malaria detection](https://github.com/fu-malaria/fu-malaria)??
 
 
 -----------
 
 
-https://github.com/fu-malaria/fu-malaria
+
 
 https://github.com/sayakpaul/Blood-Cell-Detection-using-TFOD-API
 
