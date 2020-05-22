@@ -4,7 +4,7 @@ This is my attempt to do a leucocite clasifier
 
 # Refs
 
-(https://dsp.stackexchange.com/questions/3063/count-blood-cells)[asd]
+[asd](https://dsp.stackexchange.com/questions/3063/count-blood-cells)
 
 https://answers.opencv.org/question/120204/what-is-the-best-way-to-detect-white-blood-cells-among-the-red-blood-cells-in-blood-sample-using-opencv/?comment=120205
 
