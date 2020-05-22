@@ -41,10 +41,8 @@ void thresh_callback(int, void* )
        Scalar color = Scalar( rng.uniform(0, 255), rng.uniform(0,255), rng.uniform(0,255) );
        drawContours( drawing, contours, (int)i, color, 2, 8, hierarchy, 0, Point() );
      }
-
   
   //HERE!!
-
   beta = ( 1.0 - alpha );
   addWeighted( src, alpha, drawing, beta, 0.0, drawing);
   
@@ -53,3 +51,5 @@ void thresh_callback(int, void* )
   imshow( "Contours", drawing );
   imwrite( "./leuco.jpg",  drawing);
 }
+
+//https://docs.opencv.org/master/db/df5/tutorial_linux_gcc_cmake.html
