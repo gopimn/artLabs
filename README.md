@@ -24,60 +24,55 @@ This is my attempt to do a leucocite clasifier, from blood smear pictures.
 
 + [Malaria detection](https://github.com/fu-malaria/fu-malaria)??
 
++ [This one is awesoome](https://github.com/sayakpaul/Blood-Cell-Detection-using-TFOD-API) !! has some upyters and stuf
 
------------
++ [Did I steal this?](https://github.com/KhaledSaleh/BloodC)
+
++ [Good one](https://github.com/zxaoyou/segmentation_WBC)
+
+# Other Opencv
+
+- [Original c++ ref](https://docs.opencv.org/2.4/doc/tutorials/introduction/linux_gcc_cmake/linux_gcc_cmake.html)
+
+- https://stackoverflow.com/questions/14444433/calculate-camera-world-position-with-opencv-python
+
+- https://github.com/topics/posture-recognition
+
+- https://github.com/abhilash26/sit-straight
+
+- https://github.com/wfnian/posture_recognition/blob/master/workspace/%E8%AE%BA%E6%96%87%E7%AE%80%E7%89%88.pdf
+
+- https://github.com/nvinayvarma189/Sitting-Posture-Recognition
+
+- https://docs.opencv.org/master/d7/d53/tutorial_py_pose.html
+
+- https://docs.opencv.org/master/d7/d53/tutorial_py_pose.html
+
+- https://cv-tricks.com/pose-estimation/using-deep-learning-in-opencv/
+
+- https://www.hackster.io/justin-shenk/posture-pal-computer-vision-cbe67c
+
+- https://github.com/justinshenk/sensei
+
+- [hackster](https://www.hackster.io/opencv/products/opencv?ref=project-cbe67c)
+
+# [LINUX!!](https://events.linuxfoundation.org/open-source-summit-north-america/)
 
 
 
 
-https://github.com/sayakpaul/Blood-Cell-Detection-using-TFOD-API
-
-https://github.com/KhaledSaleh/BloodC/blob/master/main.cpp
-
-https://github.com/zxaoyou/segmentation_WBC/tree/master/Dataset%202
-
-https://github.com/zxaoyou/segmentation_WBC
-
-https://raw.githubusercontent.com/zxaoyou/segmentation_WBC/master/Dataset%202/100.bmp
-
-https://raw.githubusercontent.com/zxaoyou/segmentation_WBC/master/Dataset%202/099.bmp
-
-https://raw.githubusercontent.com/zxaoyou/segmentation_WBC/master/Dataset%202/098.bmp
-
-https://raw.githubusercontent.com/zxaoyou/segmentation_WBC/master/Dataset%202/078.bmp
-
-https://raw.githubusercontent.com/zxaoyou/segmentation_WBC/master/Dataset%202/084.bmp
-
-https://github.com/zxaoyou/segmentation_WBC/blob/master/Dataset%201.png
-
-https://stackoverflow.com/questions/14444433/calculate-camera-world-position-with-opencv-python
 
 https://www.researchgate.net/figure/WBC-mask-image-in-Lab-color-space_fig12_312288096
 
 https://www.researchgate.net/figure/Illustration-of-background-separation-a-A-sub-image-b-The-over-segmentation-result_fig4_322872863
 
-https://github.com/topics/posture-recognition
 
-https://github.com/abhilash26/sit-straight
 
-https://github.com/wfnian/posture_recognition/blob/master/workspace/%E8%AE%BA%E6%96%87%E7%AE%80%E7%89%88.pdf
 
-https://github.com/nvinayvarma189/Sitting-Posture-Recognition
 
-https://docs.opencv.org/master/d7/d53/tutorial_py_pose.html
 
-https://docs.opencv.org/master/d7/d53/tutorial_py_pose.html
 
-https://cv-tricks.com/pose-estimation/using-deep-learning-in-opencv/
 
-https://www.hackster.io/justin-shenk/posture-pal-computer-vision-cbe67c
 
-https://github.com/justinshenk/sensei
 
-https://www.hackster.io/opencv/products/opencv?ref=project-cbe67c
 
-https://events.linuxfoundation.org/open-source-summit-north-america/
-
-https://www.yoctoproject.org/
-
-https://docs.opencv.org/2.4/doc/tutorials/introduction/linux_gcc_cmake/linux_gcc_cmake.html
