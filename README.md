@@ -8,7 +8,7 @@ This is my attempt to do a leucocite clasifier, from blood smear pictures.
 
 + paper [blood cells counting using python](https://www.semanticscholar.org/paper/Blood-Cells-Counting-using-Python-OpenCV-Meimban-Fernando/70e5d2da9eaaa752296f6fd78b5989648e833cfc) __unread__
 
-+ [x] A question in [stack overflow](https://dsp.stackexchange.com/questions/3063/count-blood-cells) __reviewed__
++ [x] A question in [stack overflow](https://dsp.stackexchange.com/questions/3063/count-blood-cells), there are some ideas and some 
 
 + Another queston with a [snipet](https://answers.opencv.org/question/120204/what-is-the-best-way-to-detect-white-blood-cells-among-the-red-blood-cells-in-blood-sample-using-opencv/?comment=120205) that didnt work
 
@@ -57,18 +57,6 @@ This is my attempt to do a leucocite clasifier, from blood smear pictures.
 - [hackster](https://www.hackster.io/opencv/products/opencv?ref=project-cbe67c)
 
 # [LINUX!!](https://events.linuxfoundation.org/open-source-summit-north-america/)
-
-
-
-
-
-https://www.researchgate.net/figure/WBC-mask-image-in-Lab-color-space_fig12_312288096
-
-https://www.researchgate.net/figure/Illustration-of-background-separation-a-A-sub-image-b-The-over-segmentation-result_fig4_322872863
-
-
-
-
 
 
 
