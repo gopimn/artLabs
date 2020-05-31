@@ -58,6 +58,51 @@ This is my attempt to do a leucocite clasifier, from blood smear pictures.
 
 # [LINUX!!](https://events.linuxfoundation.org/open-source-summit-north-america/)
 
+# OpenCV
+https://docs.opencv.org/master/db/df5/tutorial_linux_gcc_cmake.html
+
+https://docs.opencv.org/master/d6/d6d/tutorial_mat_the_basic_image_container.html
+
+https://docs.opencv.org/master/d2/d64/tutorial_table_of_content_objdetect.html
+
+https://docs.opencv.org/master/db/d28/tutorial_cascade_classifier.html
+
+https://docs.opencv.org/master/d6/d6d/tutorial_mat_the_basic_image_container.html
+
+https://docs.opencv.org/master/db/da5/tutorial_how_to_scan_images.html
+
+https://docs.opencv.org/master/d7/d37/tutorial_mat_mask_operations.html
+
+https://docs.opencv.org/master/d8/d01/tutorial_discrete_fourier_transform.html
+
+https://docs.opencv.org/master/dd/d74/tutorial_file_input_output_with_xml_yml.html
+
+https://docs.opencv.org/master/d5/db5/tutorial_laplace_operator.html
+
+https://docs.opencv.org/master/da/d5c/tutorial_canny_detector.html
+
+https://docs.opencv.org/master/d9/db0/tutorial_hough_lines.html
+
+https://docs.opencv.org/master/db/d28/tutorial_cascade_classifier.html
+
+https://docs.opencv.org/master/dc/d88/tutorial_traincascade.html
+
+https://docs.opencv.org/master/db/deb/tutorial_display_image.html
+
+https://docs.opencv.org/master/d4/db1/tutorial_documentation.html
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
